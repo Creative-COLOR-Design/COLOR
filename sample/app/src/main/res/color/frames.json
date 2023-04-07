@@ -1,11 +1,11 @@
 [{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"name": "COLOR ",
+		"author": "Creative Color Design",
+		"url": "https://raw.githubusercontent.com/Creative-COLOR-Design/COLOR/main/sample/app/src/main/res/drawable-nodpi/wallpaper_color_HD_design/wallpaper_color_HD_blue.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Creative-COLOR-Design/COLOR/main/sample/app/src/main/res/drawable-nodpi/wallpaper_color_HD_design/wallpaper_color_HD_blue.jpg",
+		"dimensions": "1080x1920",
+		"copyright": "Creative Color Design",
+		"collections": "Color Style Wallpaper"
 	},
 	{
 		"name": "ShotA",
